@@ -42,6 +42,7 @@ jobs:
 
   check_html_links:
     runs-on: ubuntu-latest
+    needs: build
     permissions:
       issues: write # required for peter-evans/create-issue-from-file
     steps:
