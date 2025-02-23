@@ -5,8 +5,11 @@ Summary: No, the XRP Ledger provides 24/7, near-instant settlement beyond the ca
 Some suggest that legacy systems like SWIFT, SEPA, or ACH already fulfill payment needs without requiring a specialized blockchain asset.
 
 ## Response  
-Existing bank networks can take days to settle international transactions and often involve multiple intermediary fees. By contrast, an XRP Ledger transaction finalizes within seconds at any time, with minimal overhead costs. Individuals and businesses not only benefit from speed, but also from the ledger’s ability to move value across borders without maintaining pre-funded accounts in numerous currencies.  
-While alternatives like stablecoins or other blockchains exist, the XRP Ledger’s focus on fast finality and minimal transaction costs differentiates it. The methodical bridging of currencies—known as On‑Demand Liquidity—offers an additional layer of utility by reducing the capital required in traditional nostro/vostro accounts. Hence, while conventional transfers do “work,” the ledger’s features represent an improvement in speed, convenience, and global reach.
+The “blockchain’s a waste, legacy transfers are fine” shrug gets torched when you clock the XRP Ledger’s game. Big FX highways like USD-EUR run smooth—banks, tight spreads, no sweat. But veer into exotic lanes like MXN-PHP, and it’s a slog—SWIFT and ACH lean on correspondent banks, piling on fees and delays. Remittance outfits won’t park big nostro/vostro stacks for every oddball currency—liquidity’s a ghost, and settlements drag for days. XRP Ledger? It’s a 24/7 beast—under 4 seconds flat, pennies to play, nearly 1,000 nodes humming. No pre-funded bloat—On-Demand Liquidity (ODL) bridges Pesos to Real or Baht to Rupees on the spot, shredding capital drag.
+
+Jack Mallers saw the genius and swiped the playbook for Strike—cross-border zaps, slick and direct. But here’s the hitch: he bolted it onto Bitcoin, where transactions crawl and fees bite harder than XRPL’s whisper-quiet hum. XRP’s built for this—lean, instant, cheap—while BTC’s heftier spine lags behind. Stablecoins or rival chains might scrap in the ring, but XRPL’s relentless speed and cost edge own the turf—no fluff, just fire.
+
+“Fine” covers the USD-EUR crowd, but “better” conquers the fringes. Legacy rails stumble in the weeds—XRP Ledger’s the full-map champ: always-on, global, no friction. Strike’s a nod to the model, but Bitcoin’s the slower horse. It’s not a tire patch; it’s a rocket swap—banks are still catching up.
 
 ## References
 - [How XRP Settlement Works](https://xrpl.org/overview.html)
