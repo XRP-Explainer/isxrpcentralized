@@ -38,6 +38,7 @@ jobs:
         id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
+	  name: rendered_site
           path: output/
 
   check_html_links:
@@ -46,13 +47,17 @@ jobs:
     permissions:
       issues: write # required for peter-evans/create-issue-from-file
     steps:
+     - uses: actions/download-artifact@master
+       with:
+         name: rendered_site
+         path: site
       - uses: actions/checkout@v4
 
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          args: './**/*.html'
+          args: './site/*.html'
           fail: false
 
       - name: Create Issue From File
