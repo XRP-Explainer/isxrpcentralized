@@ -38,7 +38,7 @@ jobs:
         id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
-	  name: rendered_site
+          name: rendered_site
           path: output/
 
   check_html_links:
