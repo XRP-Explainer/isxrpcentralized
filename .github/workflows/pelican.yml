@@ -40,6 +40,17 @@ jobs:
         with:
           path: output/
 
+ check_html_links:
+    runs-on: ubuntu-latest
+    name: A job to test check-html-links-action
+    steps:
+    - uses: actions/checkout@v2
+    - name: check-html-links-action step
+      id: check-links
+      uses: modernweb-dev/check-html-links-action@v1
+      with:
+        doc-folder: output
+
   # Deployment job
   deploy:
     environment:
