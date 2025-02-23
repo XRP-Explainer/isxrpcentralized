@@ -49,7 +49,7 @@ jobs:
       - name: Download site
         uses: actions/download-artifact@master
         with:
-          name: github_pages
+          name: github-pages
           path: site
 
       - name: Unpack artifact
