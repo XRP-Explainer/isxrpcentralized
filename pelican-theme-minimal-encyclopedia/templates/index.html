@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>{{ SITENAME }}</h1>
+<p>{{ SITEDESCRIPTION|default("") }}</p>
+
+<section class="article-list">
+  <!-- If you want to list articles on the homepage: -->
+  {% for article in articles %}
+    <div class="article-item">
+      <h2><a href="{{ article.url }}">{{ article.title }}</a></h2>
+      <!-- Optionally display summary -->
+      {% if article.summary %}
+        <p>{{ article.summary }}</p>
+      {% endif %}
+    </div>
+  {% endfor %}
+</section>
+
+{% endblock %}

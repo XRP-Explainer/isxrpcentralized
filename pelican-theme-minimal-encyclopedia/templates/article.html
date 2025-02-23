@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+
+<article class="article-content">
+  <h1>{{ article.title }}</h1>
+  
+  <!-- If your articles have a summary you want to display prominently: -->
+  {% if article.summary %}
+  <div class="summary">
+    <em>{{ article.summary }}</em>
+  </div>
+  {% endif %}
+  
+  <!-- Article body / content -->
+  {{ article.content }}
+</article>
+
+{% endblock %}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{% if TITLE %}{{ TITLE }} - {% endif %}{{ SITENAME }}</title>
+    <meta name="description" content="{{ SITEDESCRIPTION|default('') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ THEME_STATIC_DIR }}/css/style.css">
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <!-- Replace with your actual logo or site name -->
+        <a href="{{ SITEURL }}"><img src="theme/XRP_Ledger_logo.png" /></a>
+      </div>
+    </header>
+
+    <main>
+      <!-- Where the main content gets injected -->
+      {% block content %}{% endblock %}
+    </main>
+
+    <footer>
+      <p>Is XRP Centralized? - No.</p>
+    </footer>
+  </body>
+</html>
