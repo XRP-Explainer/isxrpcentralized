@@ -42,6 +42,7 @@ jobs:
 
   check_html_links:
     runs-on: ubuntu-latest
+    needs: build
     name: A job to test check-html-links-action
     steps:
     - uses: actions/checkout@v2
@@ -57,7 +58,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: check_html_links
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
