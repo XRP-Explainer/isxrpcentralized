@@ -33,5 +33,3 @@ jobs:
       - name: Build Pelican site
         run: |
           pelican content -o ./_site -s pelicanconf.py
-
-	  
