@@ -32,7 +32,7 @@ jobs:
 
       - name: Build Pelican site
         run: |
-          pelican content -o ./_site -s pelicanconf.py
+          pelican content -o output -s pelicanconf.py
 
       - name: Upload static files as artifact
         id: deployment
