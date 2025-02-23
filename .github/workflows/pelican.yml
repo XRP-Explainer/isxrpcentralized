@@ -47,11 +47,11 @@ jobs:
     permissions:
       issues: write # required for peter-evans/create-issue-from-file
     steps:
-     - uses: actions/download-artifact@master
-       with:
-         name: rendered_site
-         path: site
-      - uses: actions/checkout@v4
+      - name: Download site
+        uses: actions/download-artifact@master
+        with:
+          name: rendered_site
+          path: site
 
       - name: Link Checker
         id: lychee
