@@ -40,7 +40,7 @@ jobs:
         with:
           path: output/
 
- check_html_links:
+  check_html_links:
     runs-on: ubuntu-latest
     name: A job to test check-html-links-action
     steps:
