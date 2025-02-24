@@ -34,6 +34,12 @@ jobs:
         run: |
           pelican content -o output -s pelicanconf.py
 
+      - name: Build search index
+        run: |
+          pip3 install -r requirements.txt
+          python3 generate_embeddings.py
+          mv embeddings.json output
+
       - name: Upload static files as artifact
         id: deployment
         uses: actions/upload-pages-artifact@v3
