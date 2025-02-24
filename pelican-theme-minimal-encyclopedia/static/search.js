@@ -3,7 +3,7 @@ let extractor;
 
 // Load embeddings from the server
 async function loadEmbeddings() {
-    const response = await fetch("http://127.0.0.1:8000/embeddings.json");
+    const response = await fetch("https://www.isxrpcentralized.com/embeddings.json");
     articles = await response.json();
 }
 
