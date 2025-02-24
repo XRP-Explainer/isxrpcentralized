@@ -1,4 +1,4 @@
-Title: XRP relies on trusted validators
+Title: "XRP relies on trusted validators"
 Summary: No, XRPL’s nodes independently choose their trusted validators via UNLs, forming a decentralized consensus with global overlap, not a centrally dictated trust system, evolving naturally with the ecosystem.
 
 ## Argument
