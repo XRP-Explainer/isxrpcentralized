@@ -12,7 +12,7 @@ Diversity’s the ace here—nodes aren’t a monolith; they’re a motley crew 
 Size queens want flash—XRPL’s got substance. A thousand nodes, lean and mean, beat a million sloppy ones any day.
 
 ## References
-- [XRP Ledger Node Stats](https://xrpl.org/network.html)
+- [XRP Ledger Node Stats](https://xrpscan.com/validators)
 
 ## See Also
 - ["There’s no decentralized governance because most rely on Ripple’s UNL"](theres-no-decentralized-governance-because-most-rely-on-ripples-unl.html)
