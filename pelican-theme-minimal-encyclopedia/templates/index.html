@@ -4,6 +4,16 @@
 <h1>{{ SITENAME }}</h1>
 <p>{{ SITEDESCRIPTION|default("") }}</p>
 
+<input type="text" id="search-bar" placeholder="Ask a question, or just browse below..."
+       style="width: 100%; padding: 10px; font-size: 16px;"/>
+
+<script type="module">
+    import { pipeline } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers';
+    window.pipeline = pipeline;  // Make it globally accessible                                                                                                                               
+</script>
+
+<script type="module" src="search.js"></script>
+
 <section class="article-list">
   <!-- If you want to list articles on the homepage: -->
   {% for article in articles %}
