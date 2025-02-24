@@ -13,9 +13,7 @@ It’s not about flashy daily drops; it’s about the endgame. Every zap—cross
 
 
 ## References
-- [Transaction Cost & XRP Burn](https://xrpl.org/transaction-cost.html)
-- [XRPL Supply Dynamics](https://xrpl.org/xrp-visual-overview.html)
-- [Comparisons to PoW Inflation](https://ripple.com/insights/)
+- [Transaction Fees & XRP Burn](https://xrpl.org/docs/concepts/transactions/fees)
 
 ## See Also
 - [“XRP is ‘pre-mined’ rather than earned through mining”](xrp-is-pre-mined-rather-than-earned-through-mining.html)

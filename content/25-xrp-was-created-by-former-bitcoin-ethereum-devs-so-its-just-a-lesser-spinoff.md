@@ -12,8 +12,7 @@ The roots run deep: David Schwartz and Arthur Britto chipped in on Bitcoin’s c
 No PoW bloat, no PoS detour—XRPL’s fresh code aimed to fix mining’s mess and deliver utility. Native assets from the jump, BTC on board—Ethereum’s tricks owe it a nod. Schwartz, Britto, McCaleb didn’t clone; they cooked something new. Bitcoin’s a vault; ETH’s a lab—XRP’s a jet, built by vets who’d already shaped the space. Lesser? Nah—it’s a leap.
 
 ## References
-- [XRPL vs. Bitcoin Comparison](https://xrpl.org/comparison.html)
-- [Early Bitcoin to XRP Migration Insights](https://ripple.com/insights/)
+- [XRP Ledger's Origin - Provide a Better Alternative to Bitcoin](https://xrpl.org/about/history)
 - [rippled GitHub (Open Source Code)](https://github.com/XRPLF/rippled)
 
 ## See Also

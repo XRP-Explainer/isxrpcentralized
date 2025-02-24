@@ -12,9 +12,10 @@ Ripple’s not rubbing its hands like a cartoon villain either. With a fat pile 
 This isn’t some sneaky heist; it’s a transparent play. The ledger’s rules lock Ripple into a predictable groove—retail’s not the punching bag, and the volumes prove it. Critics see a boogeyman; the data sees a snooze. Escrow’s a metronome, not a market wrecker.
 
 ## References
-- [Ripple’s Escrow Explained](https://xrpl.org/escrow.html)
+- [XRP Ledger Escrows](https://xrpl.org/docs/concepts/payment-types/escrow)
+- [Ripple's Escrow Explained](https://ripple.com/insights/explanation-ripples-xrp-escrow/)
 - [Monthly XRP Markets Report](https://ripple.com/insights/)
-- [Tracking XRP Volumes on Exchanges](https://coinmarketcap.com/currencies/xrp/)
+- [Tracking XRP Balances](https://xrpscan.com/balances)
 
 ## See Also
 - [“Ripple acts like a ‘money printer,’ creating and holding large amounts of XRP they can sell at will”](ripple-acts-like-a-money-printer-creating-and-holding-large-amounts-of-xrp.html)

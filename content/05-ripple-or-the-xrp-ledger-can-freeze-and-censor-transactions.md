@@ -12,9 +12,8 @@ A go-to example folks love to trot out is Jed McCaleb, Ripple’s former founder
 The confusion often spills over from issued assets—tokens or IOUs on the ledger that issuers can freeze if they set them up that way. Think a company tethering tokens to euros or gold, needing a compliance lever. That’s their sandbox, not XRP’s. Native XRP doesn’t bend to those rules—it’s immune. Ripple or validators meddling with XRP transactions? No dice—consensus needs a crowd, not a king. Jed’s story proves the point: XRP stayed untouchable; it was the cash-out that tripped him up. Censorship’s off the table for the base asset—full stop.
 
 ## References
-- [Issued Currencies and Freezes](https://xrpl.org/issued-currencies-overview.html#freeze)
+- [Issued Currencies and Freezes](https://xrpl.org/docs/concepts/tokens/fungible-tokens/freezes)
 - [Understanding XRPL Transactions](https://xrpl.org/transaction-basics.html)
-- [XRP Community Clarifications](https://xrpl.org/blog/)
 
 ## See Also
 - [“XRP is centralized because Ripple has majority control”](xrp-is-centralized-because-ripple-has-majority-control.html)

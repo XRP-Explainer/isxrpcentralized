@@ -13,8 +13,8 @@ This is decentralized grit—nodes carve their own path to agreement, not bowing
 
 
 ## References
-- [Unique Node Lists & Governance](https://xrpl.org/unique-node-lists.html)
-- [Validator Registry & Multiple Publishers](https://xrpl.org/validator-registry.html)
+- [Amendments Docs](https://xrpl.org/docs/concepts/networks-and-servers/amendments)
+- [Current Amendment Votes](https://xrpscan.com/amendments)
 - [Managing Your Own UNL](https://xrpl.org/run-a-rippled-validator.html#trusted-validator-lists)
 
 ## See Also

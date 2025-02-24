@@ -12,7 +12,7 @@ And it’s not just DIY dreamers riding the wave. Beyond banks, one of Ripple’
 The ledger’s not picky—micropayments for a streamer’s tip jar, tokenized assets like digital land or art, or traders swapping on decentralized exchanges all fit the bill. Nearly 1,000 nodes, run by a scrappy mix of validators, keep it humming—no banker VIP list needed. Crypto’s ethos of cutting out overlords? XRP’s got it in its DNA, from its P2P genesis to its border-hopping hustle. Calling it a “banker coin” misses the forest for the trees—it’s a tool for the crowd, and the crowd’s running with it.
 
 ## References
-- [Developers on the XRP Ledger](https://xrpl.org/developer-resources.html)
+- [Developer Tooling on the XRP Ledger](https://xrpl.org/resources/dev-tools)
 - [GateHub (XRPL-based platform)](https://gatehub.net/)
 - [Xumm (community-built XRPL wallet)](https://xumm.app/)
 

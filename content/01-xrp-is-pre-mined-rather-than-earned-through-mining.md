@@ -15,7 +15,6 @@ This pre-mined design also locks in a perk: no new XRP can ever be minted. Ever.
 
 ## References
 - [Understanding the XRP Ledger Consensus Process](https://xrpl.org/consensus.html)
-- [XRP: A Visual Overview of the Total Supply](https://xrpl.org/xrp-visual-overview.html)
 - [Ripple Insights Blog](https://ripple.com/insights/)
 
 ## See Also

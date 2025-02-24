@@ -10,8 +10,7 @@ This model is akin to choosing which peers or DNS resolvers one trusts on the In
 
 ## References
 - [Managing a Custom UNL](https://xrpl.org/run-a-rippled-validator.html#trusted-validator-lists)
-- [Multiple UNL Publishers](https://xrpl.org/validator-registry.html)
-- [Ripple’s Published UNL Policy](https://xrpl.org/blog/)
+- [Multiple UNL Publishers](https://xrpl.org/docs/concepts/consensus-protocol/unl#recommended-validator-lists)
 
 ## See Also
 - [“There’s no decentralized governance because most rely on Ripple’s UNL”](theres-no-decentralized-governance-because-most-rely-on-ripples-unl.html)

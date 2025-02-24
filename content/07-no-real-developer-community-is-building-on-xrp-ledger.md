@@ -14,7 +14,7 @@ The proof’s in the pudding: XRPL.org dishes out resources, third-party wallets
 ## References
 - [XRPL Grants](https://xrplgrants.org/)
 - [XRPL Labs Info](https://xrpl-labs.com/)
-- [XRP Ledger Dev Portal](https://xrpl.org/developer-resources.html)
+- [XRP Ledger Community](https://xrpl.org/community)
 
 ## See Also
 - [“XRP is a scam coin because it was created out of thin air by a private company”](xrp-is-a-scam-coin-because-it-was-created-out-of-thin-air-by-a-private-company.html)

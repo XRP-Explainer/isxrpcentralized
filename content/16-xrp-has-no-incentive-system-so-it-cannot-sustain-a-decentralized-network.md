@@ -14,7 +14,7 @@ It’s not charity; it’s smarts. Validators keep it tight for their own skin�
 ## References
 - [Validator FAQ: Why Run a Validator?](https://xrpl.org/run-a-rippled-validator.html)
 - [PoW vs. Non-PoW Debate](https://ripple.com/insights/)
-- [Distribution of Validators on XRPL](https://xrpl.org/validator-registry.html)
+- [Distribution of Validators on XRPL](https://xrpscan.com/validators)
 
 ## See Also
 - [“XRP Ledger has no security model since it’s neither Proof‑of‑Work nor Proof‑of‑Stake”](xrp-ledger-has-no-security-model-since-its-neither-proof-of-work-nor-proof-of-stake.html)

@@ -12,9 +12,9 @@ But it’s not just suits cashing in. Everyday folks and small crews are tapping
 Then there’s the built-in decentralized exchange—XRPL was the first blockchain DEX, letting users swap issued assets (stablecoins, tokens, you name it) faster than you can blink. That’s not “speculation”; that’s a bustling marketplace for real utility—think trading tokenized art or settling a coffee tab with a stablecoin IOU. From remittance corridors to indie hustles, XRP’s proving its chops. Sure, traders love a good pump, but writing off its real-world grind is like calling a Swiss watch just a shiny bauble—it’s ticking for a reason.
 
 ## References
-- [On-Demand Liquidity](https://ripple.com/ripplenet/on-demand-liquidity/)
+- [Ripple Cross-Border Payments](https://ripple.com/solutions/cross-border-payments/)
 - [Xumm Wallet Use Cases](https://xumm.app/)
-- [XRPL Tokenization & NFTs](https://xrpl.org/issuing-and-operating-assets.html)
+- [XRPL Tokenization & NFTs](https://xrpl.org/docs/concepts/tokens/nfts)
 
 ## See Also
 - [“XRP is an unregistered security”](xrp-is-an-unregistered-security.html)

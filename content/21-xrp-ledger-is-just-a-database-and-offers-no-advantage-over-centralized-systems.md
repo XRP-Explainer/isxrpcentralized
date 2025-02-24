@@ -12,7 +12,7 @@ It’s not just tough—it’s loaded. The XRP Ledger rocked the first decentral
 This isn’t “no advantage”—it’s a rebellion. Schwartz didn’t just tweak a database; he flipped the script on control after PayPal’s stunt. It’s not a corporate echo—it’s a crowd-run fortress, built to outmaneuver the old guard’s chokeholds.
 
 ## References
-- [XRPL DEX Overview](https://xrpl.org/using-the-dex.html)
+- [XRPL DEX Overview](https://xrpl.org/docs/concepts/tokens/decentralized-exchange)
 - [Basics of Decentralized Governance](https://xrpl.org/consensus.html)
 - [How XRPL Differs from Traditional Databases](https://xrpl.org/blog/)
 

@@ -12,10 +12,9 @@ This isn’t Ripple cooking up new XRP; it’s cycling what’s already out ther
 ## References
 - [XRPL Escrow Documentation](https://xrpl.org/escrow.html)
 - [Ripple Insights on Escrow Releases](https://ripple.com/insights/)
-- [Comparisons to Traditional Founder Lockups](https://www.investopedia.com/terms/l/lockup.asp)
 
 ## See Also
-- [“Ripple acts like a ‘money printer,’ creating and holding large amounts of XRP they can sell at will”](ripple-acts-like-a-money-printer-creating-and-holding-large-amounts-of-xrp.html)
+- [“Ripple acts like a ‘money printer,’ creating and holding large amounts of XRP they can sell at will”](ripple-acts-like-a-money-printer-creating-and-holding-large-amounts-of-xrp-they-can-sell-at-will.html )
 - [“Ripple dumps on retail from the monthly escrow”](ripple-dumps-on-retail-from-the-monthly-escrow.html)
 
 ---
