@@ -5,8 +5,11 @@ Summary: No, recommended validator lists are optional, and multiple entities pub
 A recommended UNL from Ripple implies it could add or remove validators whenever it chooses, supposedly giving it ultimate power over the ledger.
 
 ## Response  
-Network operators retain the freedom to follow or ignore Ripple’s recommendations. If Ripple proposed suspicious validators, the broader community of node operators could simply exclude those entries, preserving consensus through alternative lists. The ledger’s design does not enforce a mandatory authority to finalize who may validate transactions.  
-This model is akin to choosing which peers or DNS resolvers one trusts on the Internet. No single organization can impose a mandatory set if the majority rejects it. Hence, while Ripple can publish a default list, it cannot coerce acceptance. Decentralization thrives because each node can alter its trusted set, preventing the recommended list from becoming a centralized control mechanism.
+The “Ripple can swap validators at will and rig the ledger” claim is a swing that misses the mark. Ripple’s Unique Node List (UNL)? Purely optional—nearly 1,000 node operators can grab it, tweak it, or bin it. If Ripple pitched dodgy validators, the community could flick them off their lists and pivot to others. The XRP Ledger Foundation, exchanges, and indie crews all control their own UNLs—Ripple’s not the only game in town. Nodes need majority overlap in their trusted sets to settle ties between valid transaction batches—think Bitcoin nodes syncing on hash rules—but how they build that overlap is their gig, not Ripple’s mandate.
+
+It’s a bit like DNS on the internet—you pick who you trust—but here’s the twist: unlike DNS handing you answers, validators don’t dictate transaction truth. They’re just sequencers, Web3-style—ordering the lineup, not cooking the books. All honest nodes want is forward motion; there’s no prize for one batch over another, just a nudge to keep the chain rolling. Rogue sequencers get ditched from UNLs—easy as that. Nearly 1,000 operators—devs, universities, outfits—craft their own trusted crew, free and clear.
+
+Decentralization’s the spine here—Ripple’s list is a suggestion, not a stranglehold. Consensus hinges on that overlap, not Ripple’s say-so. “Centralized”? Only if you think agreeing on a playlist order means one DJ owns the party—it’s crowd choice, not a corporate coup.
 
 ## References
 - [Managing a Custom UNL](https://xrpl.org/run-a-rippled-validator.html#trusted-validator-lists)
