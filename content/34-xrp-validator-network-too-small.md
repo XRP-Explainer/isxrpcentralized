@@ -16,4 +16,4 @@ Size queens want flash—XRPL’s got substance. A thousand nodes, lean and mean
 
 ## See Also
 - ["There’s no decentralized governance because most rely on Ripple’s UNL"](theres-no-decentralized-governance-because-most-rely-on-ripples-unl.html)
-- ["XRP Ledger has no security model since it’s neither Proof‑of‑Work nor Proof‑of‑Stake"](xrp-ledger-has-no-security-model-since-its-neither-proofofwork-nor-proofofstake.html)
+- ["XRP Ledger has no security model since it’s neither Proof‑of‑Work nor Proof‑of‑Stake"](xrp-ledger-has-no-security-model-since-its-neither-proof-of-work-nor-proof-of-stake.html)

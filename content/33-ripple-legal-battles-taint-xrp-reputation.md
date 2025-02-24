@@ -17,4 +17,4 @@ Skeptics smell blood—too bad the wound’s healing. XRP’s not limping; it’
 
 ## See Also
 - ["XRP is an unregistered security"](xrp-is-an-unregistered-security.html)
-- ["No cross‑border usage actually materializes, so the hype about ODL is empty"](no-crossborder-usage-actually-materializes-so-the-hype-about-odl-is-empty.html)
+- ["No cross‑border usage actually materializes, so the hype about ODL is empty"](no-cross-border-usage-actually-materializes-so-the-hype-about-odl-is-empty.html)

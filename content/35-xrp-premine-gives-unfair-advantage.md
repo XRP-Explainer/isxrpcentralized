@@ -17,4 +17,4 @@ Miners romanticize labor—XRP’s pre-mine bets on results. It’s not less cry
 
 ## See Also
 - ["XRP is a scam coin because it was created out of thin air by a private company"](xrp-is-a-scam-coin-because-it-was-created-out-of-thin-air-by-a-private-company.html)
-- ["XRP was created by former Bitcoin/Ethereum devs, so it’s just a ‘lesser spin‑off’"](xrp-was-created-by-former-bitcoin-ethereum-devs-so-its-just-a-lesser-spinoff.html)
+- ["XRP was created by former Bitcoin/Ethereum devs, so it’s just a ‘lesser spin‑off’"](xrp-was-created-by-former-bitcoinethereum-devs-so-its-just-a-lesser-spin-off.html)
