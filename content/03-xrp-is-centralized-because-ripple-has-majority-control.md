@@ -13,7 +13,7 @@ What if Ripple tried to flex? Say it pushed shady changes or leaned on its own n
 And those bags? Ripple’s hefty XRP stash might raise eyebrows, but it’s not a remote control for the ledger. Holdings don’t dictate validator power—consensus does. The network’s rules are a group effort, not a Ripple decree. If the community got fed up, they could even vote to amend the protocol and torch Ripple’s pile—decentralization’s got teeth here. So, centralized? Nah. It’s more like a rowdy town hall than a corporate boardroom—messy, diverse, and stubbornly independent.
 
 ## References
-- [Unique Node List (UNL) Explanation](https://xrpl.org/unique-node-lists.html)
+- [Unique Node List (UNL) Explanation](https://xrpl.org/docs/concepts/consensus-protocol/unl)
 - [XRP Ledger Consensus](https://xrpl.org/consensus.html)
 - [Running a rippled Validator](https://xrpl.org/run-a-rippled-validator.html)
 

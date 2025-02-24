@@ -12,8 +12,7 @@ Contrast that with proof-of-work’s Achilles’ heel: a mining pool with 51% of
 Decentralization’s the muscle here. Those nodes aren’t Ripple’s puppets—they’re run by a motley mix of outfits, devs, and users worldwide, each picking their own validator posse. Try censoring that, and you’re herding cats with a toothpick. The ledger’s built to shrug off bad actors—honest nodes pivot fast, keeping the chain clean. It’s not fragile; it’s antifragile—colluders don’t just fail, they lose their seat at the table. Censorship? More like a self-correcting buzzsaw.
 
 ## References
-- [Unique Node Lists & Censorship Resistance](https://xrpl.org/unique-node-lists.html)
-- [Bitcoin Mining Pool Centralization Studies](https://www.coindesk.com/learn/are-mining-pools-decentralized)
+- [Consensus Protections Against Attacks and Failure Modes](https://xrpl.org/docs/concepts/consensus-protocol/consensus-protections)
 - [XRPL Consensus Explained](https://xrpl.org/consensus.html)
 
 ## See Also

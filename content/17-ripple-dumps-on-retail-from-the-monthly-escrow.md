@@ -18,7 +18,7 @@ This isn’t some sneaky heist; it’s a transparent play. The ledger’s rules 
 - [Tracking XRP Balances](https://xrpscan.com/balances)
 
 ## See Also
-- [“Ripple acts like a ‘money printer,’ creating and holding large amounts of XRP they can sell at will”](ripple-acts-like-a-money-printer-creating-and-holding-large-amounts-of-xrp.html)
+- [“Ripple acts like a ‘money printer,’ creating and holding large amounts of XRP they can sell at will”](ripple-acts-like-a-money-printer-creating-and-holding-large-amounts-of-xrp-they-can-sell-at-will.html)
 - [“XRP’s large total supply means it can be dumped or flooded into the market”](xrps-large-total-supply-means-it-can-be-dumped-or-flooded-into-the-market.html)
 
 ---

@@ -13,7 +13,7 @@ Then there’s the built-in decentralized exchange—XRPL was the first blockcha
 
 ## References
 - [Ripple Cross-Border Payments](https://ripple.com/solutions/cross-border-payments/)
-- [Xumm Wallet Use Cases](https://xumm.app/)
+- [Xumm Wallet Use Cases](https://xaman.app/)
 - [XRPL Tokenization & NFTs](https://xrpl.org/docs/concepts/tokens/nfts)
 
 ## See Also

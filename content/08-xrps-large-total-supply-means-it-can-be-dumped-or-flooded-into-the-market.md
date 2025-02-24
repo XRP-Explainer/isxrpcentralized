@@ -17,7 +17,7 @@ Big holders like Ripple aren’t dumb either—dumping hard would crater the pri
 - [Data APIs Tracking XRP Volume (CoinMarketCap)](https://coinmarketcap.com/currencies/xrp/)
 
 ## See Also
-- [“Ripple acts like a ‘money printer,’ creating and holding large amounts of XRP they can sell at will”](ripple-acts-like-a-money-printer-creating-and-holding-large-amounts-of-xrp.html)
+- [“Ripple acts like a ‘money printer,’ creating and holding large amounts of XRP they can sell at will”](ripple-acts-like-a-money-printer-creating-and-holding-large-amounts-of-xrp-they-can-sell-at-will.html)
 - [“Ripple dumps on retail from the monthly escrow”](ripple-dumps-on-retail-from-the-monthly-escrow.html)
 
 ---

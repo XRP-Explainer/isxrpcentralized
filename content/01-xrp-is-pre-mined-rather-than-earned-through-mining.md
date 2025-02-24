@@ -18,7 +18,7 @@ This pre-mined design also locks in a perk: no new XRP can ever be minted. Ever.
 - [Ripple Insights Blog](https://ripple.com/insights/)
 
 ## See Also
-- [“Ripple acts like a ‘money printer,’ creating and holding large amounts of XRP they can sell at will”](ripple-acts-like-a-money-printer-creating-and-holding-large-amounts-of-xrp.html)
+- [“Ripple acts like a ‘money printer,’ creating and holding large amounts of XRP they can sell at will”](ripple-acts-like-a-money-printer-creating-and-holding-large-amounts-of-xrp-they-can-sell-at-will.html)
 - [“XRP is centralized because Ripple has majority control”](xrp-is-centralized-because-ripple-has-majority-control.html)
 
 ---

@@ -14,7 +14,7 @@ The ledger’s not picky—micropayments for a streamer’s tip jar, tokenized a
 ## References
 - [Developer Tooling on the XRP Ledger](https://xrpl.org/resources/dev-tools)
 - [GateHub (XRPL-based platform)](https://gatehub.net/)
-- [Xumm (community-built XRPL wallet)](https://xumm.app/)
+- [Xumm (community-built XRPL wallet)](https://xaman.app/)
 
 ## See Also
 - [“XRP is centralized because Ripple has majority control”](xrp-is-centralized-because-ripple-has-majority-control.html)
