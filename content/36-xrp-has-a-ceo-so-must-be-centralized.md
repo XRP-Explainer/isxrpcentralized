@@ -17,5 +17,5 @@ Critics see a suit and cry foul—XRPL’s open guts say otherwise. CEO’s a ti
 - [XRP Ledger Foundation](https://xrplf.org/)
 
 ## See Also
-- ["Ripple is a private corporation, which is antithetical to open‑source crypto movements"](ripple-is-a-private-corporation-which-is-antithetical-to-opensource-crypto-movements.html)
+- ["Ripple is a private corporation, which is antithetical to open‑source crypto movements"](ripple-is-a-private-corporation-which-is-antithetical-to-open-source-crypto-movements.html)
 - ["There’s no decentralized governance because most rely on Ripple’s UNL"](theres-no-decentralized-governance-because-most-rely-on-ripples-unl.html)
