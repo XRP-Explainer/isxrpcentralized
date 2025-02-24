@@ -1,15 +1,15 @@
 {% extends "base.html" %}
 {% block meta %}
-<meta name="description" content="{{ article.summary | striptags}}" />
+<meta name="description" content="{{ article.summary | striptags | replace('\"', '') | replace(\"'\", '') | e }}" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}" />
-<meta name="twitter:title" content="{{ SITENAME }} ~ {{ article.title }}" />
-<meta name="twitter:description" content="{{ article.summary | striptags}}">
+<meta name="twitter:title" content="{{ SITENAME }} ~ {{ article.title | striptags | replace('\"', '') | replace(\"'\", '') | e }}" />
+<meta name="twitter:description" content="{{ article.summary | striptags | replace('\"', '') | replace(\"'\", '') | e }}">
 <meta name="twitter:image" content="{{ SITEURL }}/theme/XRP_Ledger_logo_small.png" />
 
-<meta property="og:title" content="{{ SITENAME }} ~ {{ article.title }}" />
-<meta property="og:description" content="{{ article.summary | striptags}}" />
+<meta property="og:title" content="{{ SITENAME }} ~ {{ article.title | striptags | replace('\"', '') | replace(\"'\", '') | e }}" />
+<meta property="og:description" content="{{ article.summary | striptags | replace('\"', '') | replace(\"'\", '') | e }}" />
 <meta property="og:image" content="{{ SITEURL }}/theme/XRP_Ledger_logo_small.png" />
 {% endblock meta %}
 
