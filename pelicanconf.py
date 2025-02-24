@@ -1,6 +1,6 @@
 AUTHOR = 'XRP Explainer'
 SITENAME = 'Is XRP Centralized? No.'
-SITEURL = "https://xrp-explainer.github.io/isxrpcentralized"
+SITEURL = "https://www.isxrpcentralized.com"
 
 THEME = "pelican-theme-minimal-encyclopedia"
 
